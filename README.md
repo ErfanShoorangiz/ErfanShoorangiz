@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Erfan Shoorangiz 👋
 
-<!--
-**ErfanShoorangiz/ErfanShoorangiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🔭 I’m currently working in the Computational systems Biology Group. 
+- 🌱 I’m currently learning Software Engineering
+- 👯 I’m looking to collaborate on **Software Engineering Projects**. 
+- 🤔 I’m interested in **AI and Machine Learning**.
+- 💬 Ask me about **OOP(C#.NET, VB.NET, as well as Python) & DATABASES(Access, SQL Server, SQL)**
+- 📫 How to reach me: www.linkedin.com/in/erfan-shoorangiz-b06367141
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have mechanical aptitude and like fixing something myself. I do have repaired my stereo system recently.
